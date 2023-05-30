@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moviefind/static/css/main.b489cab5.css",
+    "main.js": "/moviefind/static/js/main.751173d4.js",
+    "static/media/user.png": "/moviefind/static/media/user.b89021c6aad79cb2ff90.png",
+    "index.html": "/moviefind/index.html",
+    "main.b489cab5.css.map": "/moviefind/static/css/main.b489cab5.css.map",
+    "main.751173d4.js.map": "/moviefind/static/js/main.751173d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b489cab5.css",
+    "static/js/main.751173d4.js"
+  ]
+}
